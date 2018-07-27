@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511240845 source:c:\users\adr\documents\ifce\introdução a programação\projetos c\nova pasta\joguinho\quadp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
